@@ -2,9 +2,9 @@
 b) V
 c) F
 d) V
-e) F
+e) V
 f) F
-g) V
+g) F
 h) V
 i) F
 j) F
